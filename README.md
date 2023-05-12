@@ -13,3 +13,7 @@ academic-success is a machine learning predictor system that predicts student dr
 > `EDA+Baseline.ipynb` jupyter Notebook containing basic EDA by me
 
 > -Affan
+
+My LinkedIn:
+ https://www.linkedin.com/in/syed-affan-38b378216
+
