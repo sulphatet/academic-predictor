@@ -1,5 +1,7 @@
 # academic-predictor
 
+## Deployed model : https://huggingface.co/sulpha/student_academic_success
+
 academic-success is a machine learning predictor system that predicts student dropout rates or academic success and provides targeted interventions and support. The repository includes code and resources for integrating the model into educational institutions' existing student support systems.
 
 > `src` folder contains python scripts (train.py provides a robust method to train and check metrics over various models)
